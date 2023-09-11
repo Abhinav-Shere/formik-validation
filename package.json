@@ -50,7 +50,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://abhinav-shere.github.io/formik-validation/",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
