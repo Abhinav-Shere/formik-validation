@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formik-validation/static/css/main.fd059906.css",
+    "main.js": "/formik-validation/static/js/main.2190f6fd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/formik-validation/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/formik-validation/index.html",
+    "main.fd059906.css.map": "/formik-validation/static/css/main.fd059906.css.map",
+    "main.2190f6fd.js.map": "/formik-validation/static/js/main.2190f6fd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/formik-validation/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd059906.css",
+    "static/js/main.2190f6fd.js"
+  ]
+}
