@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd059906.css",
-    "main.js": "/static/js/main.a5f56a80.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.fd059906.css.map": "/static/css/main.fd059906.css.map",
-    "main.a5f56a80.js.map": "/static/js/main.a5f56a80.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/formik-validation/static/css/main.fd059906.css",
+    "main.js": "/formik-validation/static/js/main.99a6c5cc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/formik-validation/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/formik-validation/index.html",
+    "main.fd059906.css.map": "/formik-validation/static/css/main.fd059906.css.map",
+    "main.99a6c5cc.js.map": "/formik-validation/static/js/main.99a6c5cc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/formik-validation/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd059906.css",
-    "static/js/main.a5f56a80.js"
+    "static/js/main.99a6c5cc.js"
   ]
 }
